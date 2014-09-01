@@ -1,6 +1,6 @@
 /* 
  * Engineer: Bryce Feigum (bafeigum at gmail)
- * Date: December 22, 2012
+ * Date: August 30, 2014
  * This is a test application to verify how the
  * ESP8266 responds to different AT commands.
  * Connect ESP8266 TX and RX to Serial1 pins
