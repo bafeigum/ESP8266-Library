@@ -26,9 +26,9 @@ void setup() {
 void loop() {
   
   // Send command
-  Serial1.print(AT_LIST_AP);
+  Serial1.println(AT_LIST_AP);
   // Send CR
-  Serial1.write(13);
+  //Serial1.write(13);
   // Send LF
   //Serial1.write(10);
   
